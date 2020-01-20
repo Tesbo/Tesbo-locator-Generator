@@ -1,1 +1,0 @@
-# Tesbo-locator-Generator
